@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9E4A-A5D5
+
+ Directory of D:\git
+
+11/03/2018  15:38    <DIR>          .
+11/03/2018  15:38    <DIR>          ..
+11/03/2018  15:38                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  348,346,990,592 bytes free
